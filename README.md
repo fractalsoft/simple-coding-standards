@@ -21,5 +21,6 @@ Coding Standards
 Links
 -----
 - [Coding Conventions](http://en.wikipedia.org/wiki/Coding_conventions)
+- [Guide for programming style](https://github.com/fractalsoft/guides)
 - [Ruby Styleguide](https://github.com/styleguide/ruby)
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
